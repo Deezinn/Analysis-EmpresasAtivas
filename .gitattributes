@@ -1,0 +1,1 @@
+data/empresas_ativas.csv filter=lfs diff=lfs merge=lfs -text
