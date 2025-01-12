@@ -16,7 +16,8 @@ class ExtractExcelEmpresasAtivas:
         except Exception as e:
             print(f"Deu algum problema! {e}")
 
-    """_summary_ não é necessário o método 'transform' porque o excel veio transformado da raíz.
+    """
+    não é necessário o método 'transform' porque o excel veio transformado da raíz.
     """
 
     def load(self,path):
