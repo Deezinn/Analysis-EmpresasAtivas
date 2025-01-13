@@ -1,5 +1,5 @@
 import pandas as pd
-from empresasAtivas import ExtractExcelEmpresasAtivas
+from empresasAtivas import EtlExcelEmpresasAtivas
 
 class Main:
     def __init__(self):

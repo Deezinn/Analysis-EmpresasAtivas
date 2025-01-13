@@ -1,7 +1,7 @@
 
 import pandas as pd
 
-class ExtractExcelEmpresasAtivas:
+class EtlEmpresasAtivas:
     def __init__(self):
         self.dataframe = None
 
